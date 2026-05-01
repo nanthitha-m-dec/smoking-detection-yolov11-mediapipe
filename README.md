@@ -1,4 +1,4 @@
-# Real-Time Smoking Detection using YOLOv11 and MediaPipe
+# Real-Time Smoking Detection using YOLOv11 and MediaPipe Holistic Fusion
 
 ## Description
 This project is an AI-based system that detects smoking activity in real time using computer vision techniques. It uses YOLOv11 for object detection and MediaPipe for feature analysis.
